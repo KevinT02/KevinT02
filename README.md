@@ -1,7 +1,5 @@
-### Hi there 👋
+### Hi there. Welcome to Kevin's Github Profile. 👋
 
-<!--
-**KevinT02/KevinT02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -13,4 +11,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+-->
+### Hi there. Welcome to Kevin's Github Profile. 👋
+
+- 🔭 I'm currently working on my porfolio
+- 🌱 I'm a first year Mechanical Engineering student interested in the field of Computer Science and Engineering.
+- 🎯 2020 Goals: Build more side projects and add to my porfolio
+- 📫 How to reach me: 
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: You are not the first to see this page
+- 💼 Seeking Summer Coop 2021
 -->
