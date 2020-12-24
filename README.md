@@ -1,4 +1,4 @@
-<img src="https://github.com/KevinT02/KevinT02/blob/main/Github%20Profile.png" height="500" width="1500">
+<img src="https://github.com/KevinT02/KevinT02/blob/main/Github%20Profile.png" height="530" width="1800">
 
 ### Hi there. Welcome to Kevin's Github Profile. 👋
 
