@@ -1,3 +1,5 @@
+<img src="https://github.com/KevinT02/KevinT02/blob/main/Github%20Profile.png" height="240" width="480">
+
 ### Hi there. Welcome to Kevin's Github Profile. 👋
 
 - 🔭 I'm currently working on my porfolio
