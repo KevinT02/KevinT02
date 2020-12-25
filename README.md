@@ -14,7 +14,7 @@
 ### Connect with me:
 
 <p align="left">
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
  <a href="mailto:cioannou1997@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
@@ -24,7 +24,7 @@
 
 ### Languages and Tools
 <p align="left">
-<img src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://nickmallas.com/images/icons/js.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://1.bp.blogspot.com/-yc-5-8Mh7cM/XkTgK9kOMLI/AAAAAAAAAeM/wqD8HLfqiIQbmv9B0E5_h2S1mHcZGbiKACLcBGAsYHQ/s1600/c5.jpg" height="40" style="vertical-align:top; margin:4px">
  
