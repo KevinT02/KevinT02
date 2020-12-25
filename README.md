@@ -31,7 +31,7 @@
 
 
 <br/>
-<br/>
+
 
 ---
 
@@ -40,8 +40,6 @@
 
   ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=vue )
   <br/>
-  <br/>
-
 </details>
 
 
