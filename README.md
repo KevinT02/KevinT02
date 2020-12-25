@@ -14,7 +14,7 @@
 ### Connect with me:
 - 🤝 Connect with me on <a href="https://www.linkedin.com/in/kevin-tu-02/">LinkedIn</a>
 - 📫 Reach me at: tu02_kevin@gmail.com
-- Link to My <a href="">Personal Website</a>
+- 💻 Link to My <a href="">Personal Website</a>
 
 
 ### Languages and Tools
