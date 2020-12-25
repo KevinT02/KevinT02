@@ -13,7 +13,7 @@
 
 ---
 
-[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02)](https://github.com/kevint02/github-readme-stats)
+![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=radical)
 
 
 
