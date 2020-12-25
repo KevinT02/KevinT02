@@ -1,6 +1,6 @@
 <img src="https://github.com/KevinT02/KevinT02/blob/main/Github%20Profile.png" height="320" width="1800">
 
-### Hi there. Welcome to Kevin's Github Profile. 👋
+### Hi there. Welcome to my GitHub Profile. 👋
 
 - 🔭 I'm currently working on my portfolio
 - 🌱 I'm a first year Mechanical Engineering student interested in the field of Computer Science and Engineering.
