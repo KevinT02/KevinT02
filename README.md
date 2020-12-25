@@ -12,11 +12,16 @@
 -->
 
 ---
+
 <details>
-  <summary>Click to expand!</summary>
-![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=vue )
+  <summary>:zap: GitHub Stats</summary>
+
+  ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=vue )
 
 </details>
+
+
+
   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevint02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
