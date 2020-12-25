@@ -20,15 +20,10 @@
 
 </details>
 
-</pre>
-</pre>
-</pre>
 
 <details>
   <summary>:zap: More Github Stastistics...</summary>
-  <p align = "center">
     <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
-  </p>
 </details>
 
 
