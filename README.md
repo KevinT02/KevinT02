@@ -2,7 +2,7 @@
 
 ### Hi there. Welcome to Kevin's Github Profile. 👋
 
-- 🔭 I'm currently working on my porfolio
+- 🔭 I'm currently working on my portfolio
 - 🌱 I'm a first year Mechanical Engineering student interested in the field of Computer Science and Engineering.
 - 🎯 2020 Goals: Build more side projects and add to my porfolio
 - 📫 How to reach me: 
@@ -15,7 +15,7 @@
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=tokyonight)
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevint02&langs_count=8)](https://github.com/kevint02/github-readme-stats)
 
 <details>
   <summary>:zap: More Github Stastistics...</summary>
