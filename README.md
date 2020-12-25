@@ -17,6 +17,9 @@
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="JodyZ0203's GitHub Stats" src="https://github-readme-stat.jodyz0203.vercel.app/api?username=jodyz0203&show_icons=true&hide_border=true" />
+  </pre>
+  </pre>
+  </pre>
 
 </details>
 
