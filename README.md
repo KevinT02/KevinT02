@@ -26,7 +26,7 @@
 <p align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  
-<img src="https://lh3.googleusercontent.com/proxy/DrT3pLJhiYuNCf_XNVorHX6uQo0t59kgBW3VPO5QdAMnruxa3gWwzLLixYxfIp1kVIGApUjaCAEczpvY53pSt4VzxKB7HVR3xOxQweNMFJZ3OPRgDNyNNoIxoMg4wZmam6TBeg" height="40" style="vertical-align:top; margin:4px">
+<img src="https://1.bp.blogspot.com/-yc-5-8Mh7cM/XkTgK9kOMLI/AAAAAAAAAeM/wqD8HLfqiIQbmv9B0E5_h2S1mHcZGbiKACLcBGAsYHQ/s1600/c5.jpg" height="40" style="vertical-align:top; margin:4px">
  
 <img src="https://image.flaticon.com/icons/png/512/25/25231.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
  
