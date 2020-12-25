@@ -15,8 +15,9 @@
 
 ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevint02&langs_count=8)](https://github.com/kevint02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevint02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Kevin's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kevint02)](https://github.com/anuraghazra/github-readme-stats)
 <details>
   <summary>:zap: More Github Stastistics...</summary>
     <img src="https://wakatime.com/share/@647db372-066e-49a9-90a2-4f9e71bdc070/ba83aa0b-96d7-4cd8-9bad-dc878a63853a.svg" height="395"/>
