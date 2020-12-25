@@ -14,9 +14,9 @@
 ### Connect with me:
 
 <p align="left">
- <a href="https://linkedin.com/in/charalambosioannou" target="_blank" rel="noopener noreferrer"> <img src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
- <a href="mailto:cioannou1997@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <img src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon.png">
+ <img src="https://www.freeiconspng.com/thumbs/website-icon/website-icon-11.png" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 
