@@ -5,7 +5,6 @@
 - 🔭 I'm currently working on my portfolio
 - 🌱 I'm a first year Mechanical Engineering student interested in the field of Computer Science and Engineering.
 - 🎯 2020 Goals: Build more side projects and add to my porfolio
-- 📫 How to reach me: 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are not the first to see this page
 - 💼 Seeking Summer Coop 2021
@@ -13,9 +12,9 @@
 ---
 
 ### Connect with me:
-- 💼 Connect with me on <a href="https://www.linkedin.com/in/jody-zhou/">LinkedIn</a>
-- 📫 Reach me at: jody625326@gmail.com
-- Link to My <a href="https://jodyz0203.github.io/Personal-Website/">Personal Website</a>
+- 💼 Connect with me on <a href="https://www.linkedin.com/in/kevin-tu-02/">LinkedIn</a>
+- 📫 Reach me at: tu02_kevin@gmail.com
+- Link to My <a href="">Personal Website</a>
 
 
 ### Languages and Tools
