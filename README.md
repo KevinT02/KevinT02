@@ -22,7 +22,7 @@
 
 ---
 <details>
-  <summary>:zap: GitHub Stats</summary>
+  <summary>:zap: GitHub Language Stats</summary>
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevint02&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
