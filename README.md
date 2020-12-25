@@ -13,15 +13,8 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02)](https://github.com/kevint02/github-readme-stats)
 
-  <img align="left" alt="KevinT02's GitHub Stats" src="https://github-readme-stat.kevint02.vercel.app/api?username=kevint02&show_icons=true&hide_border=true" />
-  </pre>
-  </pre>
-  </pre>
-
-</details>
 
 
 <details>
