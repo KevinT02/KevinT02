@@ -63,6 +63,8 @@
   <br/>
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kevint02&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <details>
   <summary>:zap: GitHub Language Stats</summary>
