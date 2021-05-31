@@ -40,8 +40,6 @@
 
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/1024px-PyCharm_Logo.svg.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
-
 <img src="https://www.microchip.com/images/default-source/mplab/mplab-x-whats-new-feeds/190405-dvtl-graph-xide-200x200.png?sfvrsn=126abce0_1" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
