@@ -15,7 +15,7 @@
 
 <p align="left">
  <img src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon.png" height="40" style="vertical-align:top; margin:4px">
- <img src="https://cdn-icons-png.flaticon.com/512/3214/3214746.png" :4px">
+ <img src="https://cdn-icons-png.flaticon.com/512/3214/3214746.png :4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 
