@@ -15,7 +15,7 @@
 
 <p align="left">
  <img src="https://www.waengineering.com/wp-content/uploads/2019/04/linkedin-icon.png" height="40" style="vertical-align:top; margin:4px">
- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Furl_3214746&psig=AOvVaw1B0H5kNJOD1LWGaPJB_j_G&ust=1648934808395000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCNCih_7m8_YCFQAAAAAdAAAAABAY:4px">
+ <img src="https://cdn-icons-png.flaticon.com/512/3214/3214746.png:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/640px-Gmail_icon_%282020%29.svg.png" height="40" style="vertical-align:top; margin:4px">
 </p>
 
