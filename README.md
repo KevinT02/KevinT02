@@ -27,8 +27,7 @@
 
 ### Languages and Tools
 <p align="left">
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
- 
+
 <img src="https://1.bp.blogspot.com/-yc-5-8Mh7cM/XkTgK9kOMLI/AAAAAAAAAeM/wqD8HLfqiIQbmv9B0E5_h2S1mHcZGbiKACLcBGAsYHQ/s1600/c5.jpg" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Fusion_360_Logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
