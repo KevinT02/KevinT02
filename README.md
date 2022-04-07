@@ -44,7 +44,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/en/e/ec/AutoCAD_2018_icon.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://www.pngfind.com/pngs/m/283-2831325_png-50-px-solidworks-png-transparent-png.png" alt="SolidWorks" height="40" style="vertical-align:top; margin:4px">
+<img src="https://img.icons8.com/color/452/solidworks.png" alt="SolidWorks" height="40" style="vertical-align:top; margin:4px">
 
 <p>
 
