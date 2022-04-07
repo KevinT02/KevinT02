@@ -42,7 +42,7 @@
 
 <img src="https://cdn4.iconfinder.com/data/icons/logos-brands-5/24/unity-512.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
-<img src="https://upload.wikimedia.org/wikipedia/en/e/ec/AutoCAD_2018_icon.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 
 <img src="https://img.icons8.com/color/452/solidworks.png" alt="SolidWorks" height="40" style="vertical-align:top; margin:4px">
 
