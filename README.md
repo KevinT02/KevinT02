@@ -7,7 +7,6 @@
 - 🎯 2020 Goals: Build more side projects and add to my porfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are not the first to see this page
-- 💼 Seeking Summer Coop 2021
 
 ---
 
