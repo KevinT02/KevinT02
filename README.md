@@ -3,7 +3,7 @@
 ### Hi there. Welcome to my GitHub Profile. 👋
 
 - 🔭 I'm currently working on my portfolio
-- 🌱 I'm a first year Electrical Engineering student interested in the field of Computer Science and Engineering.
+- 🌱 I'm a third year Electrical Engineering student interested in the field of Computer Science and Engineering.
 - 🎯 2020 Goals: Build more side projects and add to my porfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are not the first to see this page
