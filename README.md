@@ -46,6 +46,14 @@
 <img src="https://img.icons8.com/color/452/solidworks.png" alt="SolidWorks" height="40" style="vertical-align:top; margin:4px">
 
 <p>
+ 
+ 
+<br>
+<br>
+
+
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
 
 
 ---
