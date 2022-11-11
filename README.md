@@ -24,6 +24,8 @@
 - 📫 Reach me at: tu02_kevin@gmail.com
 - 💻 Link to My <a href="https://kevint02.github.io/KevinPortfolio/">Personal Website</a>
 
+<img align="right" alt="GIF" src="https://chrisdermody.com/content/images/2017/12/10_coding_dribbble.gif" width="343" height="220" title="Do what you like, and do it best!"> &nbsp;&nbsp;&nbsp;&nbsp;
+
 ### Languages and Tools
 
 <code><img height="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/feaf74a2-da81-42f2-9c50-37686d02557a/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png" alt="Python" title="Python"></code>
