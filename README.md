@@ -3,8 +3,8 @@
 ### Hi there. Welcome to my GitHub Profile. 👋
 
 - 🔭 I'm currently working on my portfolio
-- 🌱 I'm a third year Electrical Engineering student interested in the field of Computer Science and Engineering.
-- 🎯 2020 Goals: Build more side projects and add to my porfolio
+- 🌱 I'm an Electrical Engineering student interested in the field of Computer Science and Engineering.
+- 🎯 2022 Goals: Build more side projects and add to my porfolio
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: You are not the first to see this page
 
@@ -20,7 +20,7 @@
 
 ### Languages and Tools
 
-<code><img height="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/feaf74a2-da81-42f2-9c50-37686d02557a/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png" alt="Python" title="Python"></code>
+<code><img height="30" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/feaf74a2-da81-42f2-9c50-37686d02557a/d73n2y9-fc7e0a66-1dd8-42d2-9aba-29a33990067b.png" alt="CodeBlocks" title="CodeBlocks"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Fusion_360_Logo.png" alt="Fusion" title="Fusion"></code>
 <code><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/arduino-226072.png" alt="Arduino" title="Arduino"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" alt="Python" title="Python"></code>
