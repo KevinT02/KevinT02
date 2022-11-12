@@ -32,6 +32,8 @@
 <code><img height="30" src="https://banner2.cleanpng.com/20180425/kqw/kisspng-computer-icons-solidworks-e-5ae0fa43334702.1540505415246935712101.jpg" alt="SolidWorks" title="SolidWorks"></code>
 <code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/2048px-Unofficial_JavaScript_logo_2.svg.png" alt="JavaScript" title="JavaScript"></code>
 <code><img height="30" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="csharp" title="csharp"></code>
+<code><img height="30" src="https://brandslogos.com/wp-content/uploads/images/css-logo-vector.svg" alt="css" title="css"></code>
+<code><img height="30" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html" title="html"></code>
 
 
 ---
