@@ -36,7 +36,7 @@
 <code><img height="30" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html" title="html"></code>
 
 
- <! 
+ <!-- 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
