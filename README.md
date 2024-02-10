@@ -44,7 +44,7 @@
   ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=algolia  )
   <br/>
 </details>
-
+```
 <details>
   <summary>:zap: GitHub Language Stats</summary>
 
