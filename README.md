@@ -36,15 +36,14 @@
 <code><img height="30" src="https://www.w3.org/html/logo/downloads/HTML5_Logo_512.png" alt="html" title="html"></code>
 
 
----
-
+ <! 
 <details>
   <summary>:zap: GitHub Stats</summary>
 
   ![Kevin's github stats](https://github-readme-stats.vercel.app/api?username=kevint02&show_icons=true&theme=algolia  )
   <br/>
 </details>
-```
+-->
 <details>
   <summary>:zap: GitHub Language Stats</summary>
 
